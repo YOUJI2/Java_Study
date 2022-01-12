@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Getter
+@Setter
 public class Person {
     int index;
     int age;
